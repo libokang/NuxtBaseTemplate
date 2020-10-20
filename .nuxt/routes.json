@@ -6,38 +6,46 @@
       {
         "path": "",
         "name": "home",
-        "component": "/Users/libokang/Documents/Brandsh/BaseTemplate/NuxtBaseTemplate/pages/home"
+        "component": "/Users/libokang/Documents/Brandsh/BaseTemplate/NuxtBaseTemplate/pages/home",
+        "_name": "_aa65ca72"
       },
       {
         "path": "/login",
         "name": "login",
-        "component": "/Users/libokang/Documents/Brandsh/BaseTemplate/NuxtBaseTemplate/pages/login"
+        "component": "/Users/libokang/Documents/Brandsh/BaseTemplate/NuxtBaseTemplate/pages/login",
+        "_name": "_a1e2f2fe"
       },
       {
         "path": "/register",
         "name": "register",
-        "component": "/Users/libokang/Documents/Brandsh/BaseTemplate/NuxtBaseTemplate/pages/login"
+        "component": "/Users/libokang/Documents/Brandsh/BaseTemplate/NuxtBaseTemplate/pages/login",
+        "_name": "_a1e2f2fe"
       },
       {
         "path": "/profile/:username",
         "name": "profile",
-        "component": "/Users/libokang/Documents/Brandsh/BaseTemplate/NuxtBaseTemplate/pages/profile"
+        "component": "/Users/libokang/Documents/Brandsh/BaseTemplate/NuxtBaseTemplate/pages/profile",
+        "_name": "_02a48a7e"
       },
       {
         "path": "/settings",
         "name": "settings",
-        "component": "/Users/libokang/Documents/Brandsh/BaseTemplate/NuxtBaseTemplate/pages/settings"
+        "component": "/Users/libokang/Documents/Brandsh/BaseTemplate/NuxtBaseTemplate/pages/settings",
+        "_name": "_6849ae0b"
       },
       {
         "path": "/editor",
         "name": "editor",
-        "component": "/Users/libokang/Documents/Brandsh/BaseTemplate/NuxtBaseTemplate/pages/editor"
+        "component": "/Users/libokang/Documents/Brandsh/BaseTemplate/NuxtBaseTemplate/pages/editor",
+        "_name": "_26366d55"
       },
       {
         "path": "/article/:slug",
         "name": "article",
-        "component": "/Users/libokang/Documents/Brandsh/BaseTemplate/NuxtBaseTemplate/pages/article"
+        "component": "/Users/libokang/Documents/Brandsh/BaseTemplate/NuxtBaseTemplate/pages/article",
+        "_name": "_351003e4"
       }
-    ]
+    ],
+    "_name": "_32054712"
   }
 ]
