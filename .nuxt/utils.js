@@ -149,7 +149,7 @@ export async function setContext (app, context) {
       store: app.store,
       payload: context.payload,
       error: context.error,
-      base: '/',
+      base: '/NuxtBaseTemplate/',
       env: {}
     }
     // Only set once

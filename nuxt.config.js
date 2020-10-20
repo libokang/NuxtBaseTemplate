@@ -3,6 +3,8 @@ Nuxt配置文件
  */
 module.exports = {
     router: {
+        // 静态页面配置到github需要
+        base: "/NuxtBaseTemplate",
         // 修改选中路由的样式
         linkActiveClass: "active",
         // 自定义路由
@@ -65,6 +67,7 @@ module.exports = {
     plugins: ["~/plugins/request.js", "~/plugins/dayjs.js"],
 
     generate: {
+        dir: "docs",
         subFolders: false
     }
 };
