@@ -1,0 +1,43 @@
+[
+  {
+    "path": "/",
+    "component": "/Users/libokang/Documents/Brandsh/BaseTemplate/NuxtBaseTemplate/pages/layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "/Users/libokang/Documents/Brandsh/BaseTemplate/NuxtBaseTemplate/pages/home"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "/Users/libokang/Documents/Brandsh/BaseTemplate/NuxtBaseTemplate/pages/login"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "/Users/libokang/Documents/Brandsh/BaseTemplate/NuxtBaseTemplate/pages/login"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "/Users/libokang/Documents/Brandsh/BaseTemplate/NuxtBaseTemplate/pages/profile"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "/Users/libokang/Documents/Brandsh/BaseTemplate/NuxtBaseTemplate/pages/settings"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "/Users/libokang/Documents/Brandsh/BaseTemplate/NuxtBaseTemplate/pages/editor"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "/Users/libokang/Documents/Brandsh/BaseTemplate/NuxtBaseTemplate/pages/article"
+      }
+    ]
+  }
+]
